@@ -1,0 +1,6 @@
+{
+  "name": "Helping Hand",
+  "description": "An AI-powered productivity companion that proactively helps you complete tasks through intelligent planning, scheduling, and personalized coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
